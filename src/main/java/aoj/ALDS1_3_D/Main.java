@@ -1,4 +1,4 @@
-package aoj.alds1_3_d;
+package aoj.ALDS1_3_D;
 
 /**
  * Created by zhangrunfeng on 2/17/20
